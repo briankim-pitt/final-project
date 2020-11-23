@@ -2,7 +2,9 @@
 
 Team Name: Zim
   
+<<<<<<< HEAD
 Brian Kim: brk99@pitt.edu
+>>>>>>> 0154cd020756e3ac6d50d479e79363167d0a4e29
 
 Tianyi Zheng: tiz65@pitt.edu
 
