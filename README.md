@@ -2,8 +2,8 @@
 
 <Team name>
   
-Brian Kim and Tianyi Zheng
-brk99@pitt.edu
+Brian Kim (brk99@pitt.edu) and Tianyi Zheng
+
 
 Datasets used:
 
